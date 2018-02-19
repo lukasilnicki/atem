@@ -1,6 +1,6 @@
 body
 {
-	background-image: url("Grafiki/naturalblack.png");
+	background-image: url(Grafiki/naturalblack.png);
 	background-size: contain;
 	font-family: 'Lato', sans-serif;
 	color: white;
