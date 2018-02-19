@@ -1,8 +1,7 @@
 body
 {
-	background-image: url("Grafiki/plakat_atem.jpg");
-	background-size: cover;
-    background-repeat: no-repeat;
+	background-image: url("Grafiki/naturalblack.png");
+	background-size: contain;
 	font-family: 'Lato', sans-serif;
 	color: white;
 	margin: 0 !important;
